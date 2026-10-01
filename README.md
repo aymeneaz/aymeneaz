@@ -1,5 +1,5 @@
 #  About Me:
-Currently working on Machine Learning <br>  I’m looking for help with BUILDING IA TOOLS<br> Currently learning JS AND MORE PYTHON <br>
+Computer Science Engineer specialized in Networks and Distributed Systems. <br>  I build practical web applications, business tools, REST APIs and AI-powered solutions.<br> 
 
 
 ##  Socials:
